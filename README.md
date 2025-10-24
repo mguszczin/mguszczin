@@ -3,6 +3,10 @@
 **Computer Science student at the University of Warsaw** \
  _Algorithms & Low-Level Optimization Enthusiast_
 
+## Contact
+
+ **Contact:** Please use the email associated with this GitHub profile  
+
 ## Technologies
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -12,7 +16,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm-hex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## Contact
-
- **Contact:** Please use the email associated with this GitHub profile  
